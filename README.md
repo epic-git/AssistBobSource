@@ -1,2 +1,3 @@
 # AssistBobSource
-My discord.js bot that is open source
+This is almost open source.
+PLEASE DO NOT LEAK IT
